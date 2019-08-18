@@ -38,6 +38,7 @@ informações téoricas acerca desta matéria, bem como instrumentos de aplicaç
 sobre os dados gerados acerca de seu negócio.
 
 2 Revisão da Literatura
+
 As informações contidas em MARTINS[1] foram importantes para definir a
 estrutura do sistema.
 Em especial, usou-se as informações pertinentes à divisão dos custos em fixos e
@@ -53,6 +54,7 @@ do MEI e ocupações permitidas. Ainda, foi utilizado o modelo do Relatório Men
 Receitas Brutas.
 
 3 Desenvolvimento
+
 O objetivo do sistema pode ser descrito como aquele de permitir, mediante
 acesso a uma aplicação baseada em web, o cadastro de um Microempreeendedor,
 a configuração das características de seu negócio, o armazenamento de dados da
@@ -103,6 +105,7 @@ Um ponto negativo é a restrição do escopo do sistema ao método de custeio
 direto, sem possibilidade de uso para fins fiscais.
 
 5 Conclusão
+
 Conclui-se que a disponibilização final de um sistema com as características
 pretendidas será uma tarefa gradual e progressiva, envolvendo diferentes etapas
 até que todos os requisitos deste tipo de usuário, o MEI, sejam satisfatoriamente
@@ -112,6 +115,7 @@ proposto, uma vez que este propicie os níveis desejados de conforto, praticidad
 credibilidade
 
 6 Referências Bibliográficas
+
 [1]Martins, Eliseu, 1945. Contabilidade de custos / Martins, Eliseu. - 9. ed. - São
 Paulo : Atlas,
 2003.
